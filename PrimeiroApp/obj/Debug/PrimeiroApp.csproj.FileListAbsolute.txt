@@ -1,0 +1,23 @@
+C:\Users\joao.odsouza\OneDrive - SENAC - SP\Documentos\Visual Studio 2019\ProjetoTI106-App\PrimeiroApp\bin\Debug\PrimeiroApp.exe.config
+C:\Users\joao.odsouza\OneDrive - SENAC - SP\Documentos\Visual Studio 2019\ProjetoTI106-App\PrimeiroApp\bin\Debug\PrimeiroApp.exe
+C:\Users\joao.odsouza\OneDrive - SENAC - SP\Documentos\Visual Studio 2019\ProjetoTI106-App\PrimeiroApp\bin\Debug\PrimeiroApp.pdb
+C:\Users\joao.odsouza\OneDrive - SENAC - SP\Documentos\Visual Studio 2019\ProjetoTI106-App\PrimeiroApp\obj\Debug\PrimeiroApp.csproj.AssemblyReference.cache
+C:\Users\joao.odsouza\OneDrive - SENAC - SP\Documentos\Visual Studio 2019\ProjetoTI106-App\PrimeiroApp\obj\Debug\PrimeiroApp.Form1.resources
+C:\Users\joao.odsouza\OneDrive - SENAC - SP\Documentos\Visual Studio 2019\ProjetoTI106-App\PrimeiroApp\obj\Debug\PrimeiroApp.Properties.Resources.resources
+C:\Users\joao.odsouza\OneDrive - SENAC - SP\Documentos\Visual Studio 2019\ProjetoTI106-App\PrimeiroApp\obj\Debug\PrimeiroApp.csproj.GenerateResource.cache
+C:\Users\joao.odsouza\OneDrive - SENAC - SP\Documentos\Visual Studio 2019\ProjetoTI106-App\PrimeiroApp\obj\Debug\PrimeiroApp.csproj.CoreCompileInputs.cache
+C:\Users\joao.odsouza\OneDrive - SENAC - SP\Documentos\Visual Studio 2019\ProjetoTI106-App\PrimeiroApp\obj\Debug\PrimeiroApp.exe
+C:\Users\joao.odsouza\OneDrive - SENAC - SP\Documentos\Visual Studio 2019\ProjetoTI106-App\PrimeiroApp\obj\Debug\PrimeiroApp.pdb
+C:\Users\joao.odsouza\OneDrive - SENAC - SP\Documentos\Visual Studio 2019\ProjetoTI106-App\PrimeiroApp\obj\Debug\PrimeiroApp.frmPrimeiroPrograma.resources
+C:\Users\joao.odsouza\Documents\Visual Studio 2019\ProjetoTI106-App\PrimeiroApp\bin\Debug\PrimeiroApp.exe.config
+C:\Users\joao.odsouza\Documents\Visual Studio 2019\ProjetoTI106-App\PrimeiroApp\bin\Debug\PrimeiroApp.exe
+C:\Users\joao.odsouza\Documents\Visual Studio 2019\ProjetoTI106-App\PrimeiroApp\bin\Debug\PrimeiroApp.pdb
+C:\Users\joao.odsouza\Documents\Visual Studio 2019\ProjetoTI106-App\PrimeiroApp\obj\Debug\PrimeiroApp.csproj.AssemblyReference.cache
+C:\Users\joao.odsouza\Documents\Visual Studio 2019\ProjetoTI106-App\PrimeiroApp\obj\Debug\PrimeiroApp.Form1.resources
+C:\Users\joao.odsouza\Documents\Visual Studio 2019\ProjetoTI106-App\PrimeiroApp\obj\Debug\PrimeiroApp.frmPrimeiroPrograma.resources
+C:\Users\joao.odsouza\Documents\Visual Studio 2019\ProjetoTI106-App\PrimeiroApp\obj\Debug\PrimeiroApp.Properties.Resources.resources
+C:\Users\joao.odsouza\Documents\Visual Studio 2019\ProjetoTI106-App\PrimeiroApp\obj\Debug\PrimeiroApp.csproj.GenerateResource.cache
+C:\Users\joao.odsouza\Documents\Visual Studio 2019\ProjetoTI106-App\PrimeiroApp\obj\Debug\PrimeiroApp.csproj.CoreCompileInputs.cache
+C:\Users\joao.odsouza\Documents\Visual Studio 2019\ProjetoTI106-App\PrimeiroApp\obj\Debug\PrimeiroApp.exe
+C:\Users\joao.odsouza\Documents\Visual Studio 2019\ProjetoTI106-App\PrimeiroApp\obj\Debug\PrimeiroApp.pdb
+C:\Users\joao.odsouza\Documents\Visual Studio 2019\ProjetoTI106-App\PrimeiroApp\obj\Debug\PrimeiroApp.frmLogin.resources
