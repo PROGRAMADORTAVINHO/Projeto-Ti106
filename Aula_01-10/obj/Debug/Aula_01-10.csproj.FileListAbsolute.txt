@@ -1,0 +1,11 @@
+C:\Users\joao.odsouza\Documents\Visual Studio 2019\ProjetoTI106\Aula_01-10\obj\Debug\Aula_01-10.csproj.AssemblyReference.cache
+C:\Users\joao.odsouza\Documents\Visual Studio 2019\ProjetoTI106\Aula_01-10\obj\Debug\Aula_01_10.Form1.resources
+C:\Users\joao.odsouza\Documents\Visual Studio 2019\ProjetoTI106\Aula_01-10\obj\Debug\Aula_01_10.frmCalcula.resources
+C:\Users\joao.odsouza\Documents\Visual Studio 2019\ProjetoTI106\Aula_01-10\obj\Debug\Aula_01_10.Properties.Resources.resources
+C:\Users\joao.odsouza\Documents\Visual Studio 2019\ProjetoTI106\Aula_01-10\obj\Debug\Aula_01-10.csproj.GenerateResource.cache
+C:\Users\joao.odsouza\Documents\Visual Studio 2019\ProjetoTI106\Aula_01-10\obj\Debug\Aula_01-10.csproj.CoreCompileInputs.cache
+C:\Users\joao.odsouza\Documents\Visual Studio 2019\ProjetoTI106\Aula_01-10\bin\Debug\Aula_01-10.exe.config
+C:\Users\joao.odsouza\Documents\Visual Studio 2019\ProjetoTI106\Aula_01-10\bin\Debug\Aula_01-10.exe
+C:\Users\joao.odsouza\Documents\Visual Studio 2019\ProjetoTI106\Aula_01-10\bin\Debug\Aula_01-10.pdb
+C:\Users\joao.odsouza\Documents\Visual Studio 2019\ProjetoTI106\Aula_01-10\obj\Debug\Aula_01-10.exe
+C:\Users\joao.odsouza\Documents\Visual Studio 2019\ProjetoTI106\Aula_01-10\obj\Debug\Aula_01-10.pdb
